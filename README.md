@@ -4,7 +4,7 @@ Bilgisayarınız açık olduğu süre boyunca belirtiğiniz sunucu/sunuculara be
 
 # Tanıtım
 
-https://youtu.be/R2FQdL6PzKA
+<iframe width="2114" height="800" src="https://www.youtube.com/embed/R2FQdL6PzKA" title="Minecraft Sunucularına Giriş Çıkış Yapan Bot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Desteklenen Sunucular
 

@@ -4,7 +4,7 @@ Bilgisayarınız açık olduğu süre boyunca belirtiğiniz sunucu/sunuculara be
 
 ## Programı İndir
 
-- [![Download Exe](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://drive.google.com/file/d/11PbevLUPWWVz_qszS6hWDqC83CZjstFE/view?usp=sharing)
+[![Download Exe](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://drive.google.com/file/d/11PbevLUPWWVz_qszS6hWDqC83CZjstFE/view?usp=sharing)
 
 # Tanıtım
 
